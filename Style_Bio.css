@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Lilita One';
+    font-size:40px;
+    text-align: center;
+    color: rgb(186, 22, 228);
+}
+p2{
+    font-family: 'Mulish';
+    font-size: 20px;
+}
+img{
+    height: 400px;
+    width:500px;
+    margin-left: 400px;
+}
+body{
+    background-color: rgb(238, 220, 57);
+}

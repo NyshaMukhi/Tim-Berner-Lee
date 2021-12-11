@@ -1,0 +1,53 @@
+h1{
+    font-family: 'Lilita One';
+    font-size:40px;
+    text-align: center;
+    color: rgb(186, 22, 228);
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+ul{
+    margin:0px;
+    padding: 0px;
+    background-color: rgb(91, 150, 218);
+    text-align: center;
+}
+li{
+    display: inline;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    padding-right: 20px;
+    font-family: 'Lily Script One';
+}
+.fa-twitter{
+    color:blue;
+    background-color: white;
+}
+.fa-facebook{
+    color:blue;
+    background-color: white;
+}
+.fa-instagram{
+    color:rgb(255, 0, 128);
+    background-color: white;
+}
+.fa-youtube{
+    color:red;
+    background-color: white;
+}
+.fa{
+    height: 40px;
+    width: 40px;
+}
+p1{
+    font-family: 'Mulish';
+    font-size: 20px;
+}
+#timimg1{
+    height: 350px;
+    width: 250px;
+    margin-left: 550px;
+}
